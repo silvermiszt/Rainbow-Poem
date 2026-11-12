@@ -6,6 +6,7 @@ Orange
 Blue
 Green
 Unicorn
+Recycle!
 Yellow
 Red
 These are the colors of the rainbow.
